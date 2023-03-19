@@ -1,0 +1,30 @@
+{
+  "name": "@sensethenlove/global-style",
+  "version": "1.0.1",
+  "description": "Global styling for body, html, common keyframes & common styles",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "node ./src/index.js"
+  },
+  "keywords": [
+    "array",
+    "utility"
+  ],
+  "author": "Sense Then Love",
+  "license": "MIT",
+  "types": "./lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sensethenlove/global-style.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sensethenlove/global-style/issues"
+  },
+  "homepage": "https://github.com/sensethenlove/global-style#readme",
+  "devDependencies": {
+    "sass": "^1.59.3"
+  }
+}
