@@ -1,18 +1,24 @@
 {
   "name": "@sensethenlove/global-style",
-  "version": "1.0.1",
-  "description": "Global styling for body, html, common keyframes & common styles",
+  "license": "MIT",
+  "version": "1.0.2",
+  "author": "Sense Then Love",
   "main": "./lib/index.js",
+  "homepage": "https://github.com/sensethenlove/global-style#readme",
+  "description": "Global styling for body, html, common keyframes & common styles",
   "scripts": {
-    "build": "node ./src/index.js"
+    "build": "node ./src/index.js",
+    "npmDeploy": "npm publish --access public"
   },
   "keywords": [
-    "array",
-    "utility"
+    "style",
+    "css",
+    "sccs",
+    "cloudflare",
+    "cloudflare workers",
+    "svelte",
+    "sveltekit"
   ],
-  "author": "Sense Then Love",
-  "license": "MIT",
-  "types": "./lib/index.d.ts",
   "directories": {
     "lib": "lib"
   },
@@ -23,7 +29,6 @@
   "bugs": {
     "url": "https://github.com/sensethenlove/global-style/issues"
   },
-  "homepage": "https://github.com/sensethenlove/global-style#readme",
   "devDependencies": {
     "sass": "^1.59.3"
   }
