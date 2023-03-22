@@ -18,5 +18,6 @@ import '@sensethenlove/global-style/lib/index.css'
 * [@sensethenlove/jwt](https://www.npmjs.com/package/@sensethenlove/jwt)
 * [@sensethenlove/toast](https://www.npmjs.com/package/@sensethenlove/toast)
 * [@sensethenlove/env-write](https://www.npmjs.com/package/@sensethenlove/env-write)
+* [@sensethenlove/svelte-modal](https://www.npmjs.com/package/@sensethenlove/svelte-modal)
 * [@sensethenlove/global-style](https://www.npmjs.com/package/@sensethenlove/global-style)
 * [@sensethenlove/loop-backwards](https://www.npmjs.com/package/@sensethenlove/loop-backwards)
