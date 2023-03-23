@@ -1,11 +1,11 @@
 {
   "name": "@sensethenlove/global-style",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "Sense Then Love",
   "license": "MIT",
   "main": "./lib/index.js",
   "homepage": "https://github.com/sensethenlove/global-style#readme",
-  "description": "Global styling for body, html, common keyframes & common styles",
+  "description": "Global styling for body, html, common keyframes, common styles & rem assistance",
   "scripts": {
     "build": "node ./src/index.js",
     "live": "pnpm build && npm publish --access public"
